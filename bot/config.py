@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 
 # Telegram token
-TOKEN = os.environ["TOKEN"]
+TOKEN = os.environ["5803152721:AAEAsWalFaXOSqjDH9KMUREQx3eZzTUKwIs"]
 # Path to project folder
 BASE_DIR = Path("__file__").parent.parent.absolute()
 # Path to stickers folder
